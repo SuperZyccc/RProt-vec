@@ -132,13 +132,11 @@ def main(sequence_file, pdb_dir, output_dir, progress_file, write_interval=10000
 
     pbar.close()
 
-# 输入输出路径
 sequence_file = 'filtered.fa'
 pdb_dir = 'pdb_files'
 output_dir = 'output'
 progress_file = 'progress.txt'
 
-# 运行主函数
 if not os.path.exists(output_dir):
     os.makedirs(output_dir)
 
