@@ -1,4 +1,4 @@
-# Protein Similarity Training
+# Pprot-vec Training
 
 This project provides a deep learning model (based on GRU, CNN, and self-attention) for predicting protein structural similarity. The model leverages a pre-trained T5 encoder for feature extraction from protein sequences, followed by multiple GRU layers, convolutional layers, and a self-attention mechanism to fuse the extracted features, ultimately generating embeddings for similarity assessment.
 
