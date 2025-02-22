@@ -98,10 +98,8 @@ Key hyperparameters and their default values (can be adjusted in `main.py`):
 
 - **Batch size**: 64  
 - **Learning rate**: 0.0001  
-- **GRU hidden size**: 256  
-- **Num layers (GRU)**: 1  
 - **Dropout**: 0.1  
-- **Epochs**: 2 (you can change this in `main()`)  
+- **Epochs** (you can change this in `main()`)  
 - **Train / Validation split**: 95% / 5%
 
 ---
