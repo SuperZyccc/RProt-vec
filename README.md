@@ -5,7 +5,7 @@ Rprot-Vec is a deep learning approach for fast protein structure similarity calc
 - Training and testing code for the Rprot-Vec model.
 - Scripts to download and prepare PDB data from the CATH dataset.
 - Instructions on how to generate the dataset used for training/testing.
-- 
+  
 ---
 
 ## Code
